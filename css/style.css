@@ -479,10 +479,11 @@ section#parceiros{
     padding-top: 10px;
     z-index: -1;
     border:none;
-
   }
 
-
+.navbar-default{
+    background: rgba(95, 33, 33, 0.88);
+}
 
   .contato{
   	    width:100%;
