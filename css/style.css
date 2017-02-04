@@ -56,7 +56,7 @@ height: 100%;
     position: absolute;
     min-width: 100%;
     min-height: 100%;
-    width: auto;
+    width: 100%;
     top: 0;
     left: 0;
     transition: 1s opacity;
@@ -436,7 +436,7 @@ section#parceiros{
 
 #parceiros img {
     float: left;
-    margin-right: 40px;
+    margin: 0 20px;
     background: #fff;
     padding: 15px;
     border-radius: 5px;
@@ -561,9 +561,7 @@ section#parceiros{
     top: 15%;
 
 }
-.carousel-caption{
-    top:120px;
-}
+
 
 .carousel-caption p {
     font-size: 25px;
@@ -579,12 +577,17 @@ section#parceiros{
 
 
 #portfolio .portfolio-item {
+    width: 100%;
     margin: 0 0 15px;
     right: 0;
     display: inline-block;
     padding: 0;
 }
 
+
+.img-responsive{
+        margin: 0 auto;
+}
 
 }
 
