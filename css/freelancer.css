@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: url(../img/texturas/pat3.png) repeat, rgba(108, 22, 30, 0.72);
+  background: url(../img/texturas/pat3.png) repeat, rgba(108, 22, 30, 0.80);
   background-position: bottom;
   color: white;
   background-position-y: bottom;
